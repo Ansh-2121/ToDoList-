@@ -8,7 +8,7 @@ Styling and UI improvements
 
 README file update
 
-README File Instructions
+**README File Instructions**
 
 The README.md file is included in the repository and provides clear instructions to run the application:
 
